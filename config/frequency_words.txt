@@ -81,6 +81,10 @@ ios
 ai
 !gai
 人工智能
+AI
+AI产品
+AIGC
+
 
 自动驾驶
 
